@@ -23,6 +23,6 @@
 
 💼 LinkedIn - https://www.linkedin.com/in/devavignan/
 📧 muddammagaridevavignan@gmail.com
-🚀 GitHub - DevaVignan@github.com
+🚀 GitHub - https://github.com/DevaVignan
 
 💙 I’m open to exciting opportunities and collaborations in ML, AI, or full-stack development. Let’s connect and create something impactful!
