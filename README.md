@@ -1,23 +1,28 @@
-# 👋 Hey there! I'm M Deva  
+👋 Hey there! I'm M Deva
+🚀 About Me
 
-## 🚀 About Me  
-🎓 B.Tech 3rd-year Computer Science student at Amrita Vishwa Vidyapeetham.  
-💻 Passionate about Machine Learning, AI, and Software Development.  
-🔍 Exploring the world of Open Source and Competitive Programming.  
-🎯 Goal: Becoming a Software Engineer and contributing to impactful projects.  
+🎓 I'm a 3rd-year B.Tech Computer Science student at Amrita Vishwa Vidyapeetham.
+💻 Passionate about technology, especially in Software Development and AI/ML domains.
+🌱 I believe in continuous learning, building impactful solutions, and growing through real-world experience.
+🌟 My goal is to establish a strong professional identity and make meaningful contributions in the tech world.
+🛠 Technologies & Skills
 
-## 🛠 Technologies & Skills  
-- 💡 *Languages:* Python, Java, MySQL  
-- 📊 *ML & Data Science:* Pandas, NumPy, Matplotlib  
-- 🔧 *Frameworks & Tools:* Hadoop, MongoDB, React  
-- 🎯 *Other Skills:* Time Management, Team Collaboration   
+    💡 Languages: Python, MySQL
 
-## 💡 Fun Facts  
-🎮 Gaming enthusiast | 🎵 Loves music | ✈ Avid traveler  
+    📊 ML & Data Science: Pandas, NumPy, Matplotlib
 
-## 🌍 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/sai-deekshith-modem/)  
-📧 deekshith8500@gmail.com  
-🚀 [GitHub](https://github.com/itzme-deekshith)  
+    🔧 Frameworks & Tools: Hadoop, MongoDB, React
 
-💙 Open to collaborations on exciting *ML, AI, and full-stack projects*! Let's build something amazing together!
+    🎯 Core Strengths: Problem Solving, Team Collaboration, Time Management
+
+💡 Interests
+
+🎵 Music enthusiast | ✈ Passionate traveler | 🏏 Sports lover
+🧠 Always curious | 🤝 Team player | 📈 Growth mindset
+🌍 Let's Connect!
+
+💼 LinkedIn - https://www.linkedin.com/in/devavignan/
+📧 muddammagaridevavignan@gmail.com
+🚀 GitHub - DevaVignan@github.com
+
+💙 I’m open to exciting opportunities and collaborations in ML, AI, or full-stack development. Let’s connect and create something impactful!
